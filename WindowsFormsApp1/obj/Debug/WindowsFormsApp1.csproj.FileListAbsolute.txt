@@ -1,0 +1,9 @@
+E:\1学习\大三下\网络与通信程序设计\课程设计\程序\zhongzuoyechengxu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\1学习\大三下\网络与通信程序设计\课程设计\程序\zhongzuoyechengxu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\1学习\大三下\网络与通信程序设计\课程设计\程序\zhongzuoyechengxu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\1学习\大三下\网络与通信程序设计\课程设计\程序\zhongzuoyechengxu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\1学习\大三下\网络与通信程序设计\课程设计\程序\zhongzuoyechengxu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\1学习\大三下\网络与通信程序设计\课程设计\程序\zhongzuoyechengxu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\1学习\大三下\网络与通信程序设计\课程设计\程序\zhongzuoyechengxu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\1学习\大三下\网络与通信程序设计\课程设计\程序\zhongzuoyechengxu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\1学习\大三下\网络与通信程序设计\课程设计\程序\zhongzuoyechengxu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

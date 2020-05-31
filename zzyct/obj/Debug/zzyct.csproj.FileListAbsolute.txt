@@ -1,0 +1,10 @@
+E:\1学习\大三下\网络与通信程序设计\课程设计\程序\zhongzuoyechengxu\zzyct\bin\Debug\zzyct.exe.config
+E:\1学习\大三下\网络与通信程序设计\课程设计\程序\zhongzuoyechengxu\zzyct\bin\Debug\zzyct.exe
+E:\1学习\大三下\网络与通信程序设计\课程设计\程序\zhongzuoyechengxu\zzyct\bin\Debug\zzyct.pdb
+E:\1学习\大三下\网络与通信程序设计\课程设计\程序\zhongzuoyechengxu\zzyct\obj\Debug\zzyct.csprojAssemblyReference.cache
+E:\1学习\大三下\网络与通信程序设计\课程设计\程序\zhongzuoyechengxu\zzyct\obj\Debug\zzyct.登录.resources
+E:\1学习\大三下\网络与通信程序设计\课程设计\程序\zhongzuoyechengxu\zzyct\obj\Debug\zzyct.Properties.Resources.resources
+E:\1学习\大三下\网络与通信程序设计\课程设计\程序\zhongzuoyechengxu\zzyct\obj\Debug\zzyct.csproj.GenerateResource.cache
+E:\1学习\大三下\网络与通信程序设计\课程设计\程序\zhongzuoyechengxu\zzyct\obj\Debug\zzyct.exe
+E:\1学习\大三下\网络与通信程序设计\课程设计\程序\zhongzuoyechengxu\zzyct\obj\Debug\zzyct.pdb
+E:\1学习\大三下\网络与通信程序设计\课程设计\程序\zhongzuoyechengxu\zzyct\obj\Debug\zzyct.Form1.resources
